@@ -1,4 +1,4 @@
-## Welcome, this is Taewan's github😘
+## Hi there, this is Taewan's github😘
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwwan13)](https://hits.seeyoufarm.com)                          
 	
