@@ -11,4 +11,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwan13&layout=compact)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwan13&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwan13&show_icons=true)
