@@ -1,10 +1,10 @@
 ## Hi there, This is Taewan's github😘
 
-<a href="https://www.instagram.com/_txxwxn/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+ <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwwan13)](https://hits.seeyoufarm.com)
+	
+  </div>
 	
 - 💻 i am student developer
 - 📚 studying at SCH univ
