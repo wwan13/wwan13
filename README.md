@@ -12,6 +12,6 @@
 - 🙏 **one day, one commit**
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwan13&theme=graywhite&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwan13&layout=compact&theme=graywhite)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwan13&theme=vue&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwan13&layout=compact&theme=vue)
 
