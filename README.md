@@ -6,10 +6,13 @@
 	
   </div>
 	
-- 💻 i am student developer
-- 📚 studying at SCH univ
-- 🦁 join in LikeLion 8th at SCH
-- 🙏 **one day, one commit**
+💻  i am student developer
+
+📚  studying at SCH univ
+
+🦁  join in LikeLion 8th at SCH
+
+🙏  **one day, one commit**
 
 
 **languages**
