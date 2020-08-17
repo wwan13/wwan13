@@ -1,4 +1,4 @@
-## Hi there, This is Taewan's github😘
+### Hi there, This is Taewan's github😘
 
  <div align=center>
 	
@@ -11,6 +11,6 @@
 - 🦁 join in LikeLion 8th at SCH
 - 🙏 **one day, one commit**
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwan13)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwan13&layout=compact)
 
