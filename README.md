@@ -12,7 +12,8 @@
 - 🙏 **one day, one commit**
 
 
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwan13&theme=vue&show_icons=true)
