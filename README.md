@@ -12,10 +12,10 @@
 
 🦁  join in LikeLion 8th at SCH
 
-🙏  **one day, one commit**
+🙏  one day, one commit
 
 
-####languages
+###languages
 
 <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 
