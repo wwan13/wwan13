@@ -19,6 +19,15 @@
 
 <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 
 <img align="left" src="https://github-readme-stats.wwan13.vercel.app/api?username=wwan13&theme=vue&show_icons=true&hide_border=true" />
