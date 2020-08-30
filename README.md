@@ -15,14 +15,10 @@
 - 🙏  one day, one commit
 
 
-#### Languages:
-
-<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-
-**Languages:**  
+### Languages:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
