@@ -1,4 +1,4 @@
-# Hi there, This is Taewan's Github 😘
+# Hi there❗️ This is Taewan's Github 😘
 
  <div align=center>
 	
