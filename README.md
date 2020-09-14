@@ -6,7 +6,7 @@
 	
   </div>
 	
-- 💻  i am student back-end developer
+- 💻  i am student backend developer
 
 - 📚  studying at SCH univ
 
