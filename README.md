@@ -8,6 +8,8 @@
 	
 - 💻  I want to be a Back-End developer
 
+- 👀 I'm learning Spring Framework recently.
+
 - 📚  studying at SCH univ
 
 - 🦁  join in LikeLion 8th at SCH
