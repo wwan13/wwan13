@@ -12,7 +12,7 @@
 
 - 📚  studying at SCH univ
 
-- 🦁  join in LikeLion 8th at SCH
+- 🦁  join in LikeLion 8th
 
 - 🙏  one day, one commit
 
