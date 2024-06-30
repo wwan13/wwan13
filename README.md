@@ -1,5 +1,5 @@
 ## 🌱 안녕하세요. 백앤드 개발자 김태완 입니다.
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://tech-blog.taewan.co.kr/)](https://tech-blog.taewan.co.kr/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wwan13.github.io/)](https://wwan13.github.io/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwwan13&count_bg=%23D8A0F1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 좋은 글을 읽는 것 처럼 **읽기 편한 코드**를 작성하기 위해 노력합니다.
