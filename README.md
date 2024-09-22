@@ -3,16 +3,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwwan13&count_bg=%23D8A0F1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 좋은 글을 읽는 것 처럼 **읽기 편한 코드**를 작성하기 위해 노력합니다.
+- 반복되는 작업을 줄이기 위한 **자동화와, 라이브러리 개발**에 흥미가 있습니다.
 - 작성한 모든 코드에 근거를 제공하고, 더 나은 근거를 찾기 위해 나의 **생각을 공유**합니다.
-- 의견의 차이에서 발생하는 갈등을 두려워 하지 않고, **이성적으로 해결**하기 위해 노력합니다.
 
 <br/>
 
-### Tech Stacks
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+### Stacks
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
